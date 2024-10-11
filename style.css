@@ -21,6 +21,7 @@ h2 > a { /* Home Button */
 
 p { /* Main font size */
     font-size: 1.1rem;
+    padding-right: 30%;
 }
 
 div > a { /* Completed Weeks */
