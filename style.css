@@ -13,6 +13,11 @@ h2 {
     font-size: 1.5rem;
 }
 
+h3 {
+    font-size: 1.1rem;
+    margin: 0;
+}
+
 h2 > a { /* Home Button */
     font-size: 1.5rem;
     color: blue;
@@ -50,7 +55,17 @@ li { /* Makes lists easier to read*/
     color: red;
 }
 
-.image { /* */
+img {
+    margin: 5%;
+    border: 3px dashed;
+}
+
+video {
+    margin: 5%;
+    border: 3px dashed;
+}
+
+iframe {
     margin: 5%;
     border: 3px dashed;
 }
